@@ -254,9 +254,9 @@ button:focus { outline: none; }
 	color: white;
 };
 
-.tm-news-item-img.picSize{
+.img-fluid.tm-news-item-img.picSize{
 	width: 600px;
-	height: 400px;
+	height: 455px;
 }
 
 .tm-section {
