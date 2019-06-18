@@ -252,6 +252,11 @@ button:focus { outline: none; }
 .tm-green-bordered-btn:focus {
 	background: #006666;
 	color: white;
+};
+
+.picSize {
+	width: 355px;
+	height: 700px;
 }
 
 .tm-section {
