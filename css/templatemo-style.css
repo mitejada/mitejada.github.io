@@ -254,7 +254,7 @@ button:focus { outline: none; }
 	color: white;
 };
 
-.picSize {
+.tm-news-item-img.picSize{
 	width: 600px;
 	height: 400px;
 }
