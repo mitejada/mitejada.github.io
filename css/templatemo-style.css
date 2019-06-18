@@ -298,6 +298,7 @@ button:focus { outline: none; }
 .tm-news-title {
 	font-weight: 300;
 	margin-bottom: 30px;
+	padding-top: 20px;
 }
 
 .tm-news-text {	line-height: 1.8; }
